@@ -1,262 +1,496 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "BBC News"
+      "id": "cnn",
+      "name": "CNN"
     },
-    "author": "https://www.facebook.com/bbcnews",
-    "title": "Israel's cabinet set to approve ceasefire deal as at least 20 killed in strikes on Gaza - BBC.com",
-    "description": "Israel's military says a rocket was also fired into its territory from Gaza, ahead of a truce which is set to begin on Sunday.",
-    "url": "https://www.bbc.com/news/live/c3rwqpj70ert",
-    "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
-    "publishedAt": "2025-01-16T08:03:45Z",
-    "content": "Damian GrammaticasPolitical correspondent\r\nThe Foreign Secretary David Lammy has said the UK government hopes Emily Demari, the one remaining hostage with British citizenship who is being held in Gaz… [+1264 chars]"
+    "author": "Nectar Gan, Alex Stambaugh, Lucas Lilieholm, Antoinette Radford, Eve Brennan, Lauren Said-Moorhouse",
+    "title": "Live updates: Gaza ceasefire begins after Hamas releases list of hostages to be freed - CNN",
+    "description": "A long-awaited ceasefire has started in Gaza following a three-hour delay, bringing respite to the besieged enclave after a bloody 15 months. Follow for live updates.",
+    "url": "https://www.cnn.com/world/live-news/israel-hamas-ceasefire-war-palestine-01-19-25/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2025-01-17t115318z-1292252567-rc2jbca6xdq7-rtrmadp-3-israel-palestinians-gaza.JPG?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-01-19T10:32:00Z",
+    "content": "Thousands of people gathered on streets across Israel on the eve of a ceasefire deal with Hamas, as the nation awaits the return of hostages who have been held captive for the past 15 months in Gaza.… [+2023 chars]"
   },
   {
     "source": {
-      "id": "reuters",
-      "name": "Reuters"
+      "id": "abc-news",
+      "name": "ABC News"
     },
-    "author": "Joey Roulette",
-    "title": "Blue Origin's debut New Glenn rocket blasts off from Florida - Reuters",
-    "description": "Blue Origin's giant New Glenn rocket blasted off from Florida on its first mission to space, an inaugural step into Earth's orbit for Jeff Bezos' space company as it aims to rival SpaceX in the satellite launch business.",
-    "url": "https://www.reuters.com/science/blue-origins-debut-new-glenn-rocket-fully-fueled-next-launch-attempt-2025-01-16/",
-    "urlToImage": "https://www.reuters.com/resizer/v2/INBWQOAFU5PBBLBX7LX7NANHOU.jpg?auth=f071adac28c8f1a0029826b23bf3fa170fd0bef00cbce3abf151e31a640d0b35&height=1005&width=1920&quality=80&smart=true",
-    "publishedAt": "2025-01-16T07:19:00Z",
+    "author": "ABC News",
+    "title": "TikTok unavailable in app stores, goes dark for some users ahead of ban - ABC News",
+    "description": null,
+    "url": "https://abcnews.go.com/Technology/tiktok-dark-users-ahead-ban/story?id\\\\u003d117835589",
+    "urlToImage": null,
+    "publishedAt": "2025-01-19T09:15:23Z",
     "content": null
   },
   {
     "source": {
       "id": null,
-      "name": "Hollywood Reporter"
+      "name": "Cointelegraph"
     },
-    "author": "Lovia Gyarkye",
-    "title": "‘One of Them Days’ Review: Keke Palmer and SZA Make a Rowdily Funny Duo in Issa Rae-Produced Comedy - Hollywood Reporter",
-    "description": "Two friends race to avoid eviction in this comedy directed by Lawrence Lamont and co-starring Vanessa Bell Calloway, Lil Rel Howery, Katt Williams, Janelle James and Maude Apatow.",
-    "url": "http://www.hollywoodreporter.com/movies/movie-reviews/one-of-them-days-review-keke-palmer-sza-1236107759/",
-    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/C_0005C002_240717_004548_H1F52_g_Rec709.086566_rv2.jpg?crop=448px%2C0px%2C3228px%2C1808px&resize=1440%2C810",
-    "publishedAt": "2025-01-16T06:20:57Z",
-    "content": "Few moments provoke more anxious dread for residents of The Jungles, the vibrant Los Angeles locale in which the hilarious new film One of Them Days is set, than the first of the month. Their surly l… [+4907 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "9to5google.com"
-    },
-    "author": "Abner Li",
-    "title": "Samsung Galaxy S25 leak shows new Gemini overlay, hotword, and more - 9to5Google",
-    "description": "Ahead of next week’s Samsung event, the Galaxy S25 leaks continue and the latest marketing reveals the Gemini experience.",
-    "url": "http://9to5google.com/2025/01/15/samsung-s25-gemini-overlay/",
-    "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/Gemini-overlay-Galaxy-S25.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "publishedAt": "2025-01-16T06:17:00Z",
-    "content": "Ahead of next weeks Samsung event, the Galaxy S25 leaks continue and the latest marketing reveals the Gemini experience.\r\nIn S25 marketing material shared by Tecnoblog (via Android Authority), we see… [+1377 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "DPA",
-    "title": "Fight against LA fires making progress, strong winds dying down - Yahoo! Voices",
-    "description": "A week after wildfires started devastating the Los Angeles area, fire-fighting teams are finally making headways. The Eaton Fire near Pasadena, which claimed...",
-    "url": "https://www.yahoo.com/news/fight-against-la-fires-making-055324791.html",
-    "urlToImage": "https://media.zenfs.com/en/dpa_international_526/8424e26e17122cee8a45c61f9fc4e5d5",
-    "publishedAt": "2025-01-16T05:53:00Z",
-    "content": "A week after wildfires started devastating the Los Angeles area, fire-fighting teams are finally making headways.\r\nThe Eaton Fire near Pasadena, which claimed seventeen of the 25 fatalities confirmed… [+2170 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BBC News"
-    },
-    "author": null,
-    "title": "US bans red dye No. 3 from food, candy and medicine - BBC.com",
-    "description": "The FDA says food manufacturers have until January 2027 to remove the cherry-red dye from their products.",
-    "url": "https://www.bbc.com/news/articles/cx2qpngxgp4o",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e3ee/live/58a1c690-d37b-11ef-a118-e59aa5b2fa98.jpg",
-    "publishedAt": "2025-01-16T05:11:29Z",
-    "content": "The dye has been used in a number of foods, like maraschino cherries\r\nThe US has banned the use of a synthetic dye typically added to foods and beverages to give them a bright, cherry-red hue.\r\nManuf… [+2547 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "Ryan Young",
-    "title": "Ja Morant throws down wild one-handed dunk on Victor Wembanyama … that didn’t quite count - Yahoo Sports",
-    "description": "The Memphis Grizzlies star came up with a ridiculous poster over Victor Wembanyama after the whistle blew.",
-    "url": "https://sports.yahoo.com/ja-morant-throws-down-wild-one-handed-dunk-on-victor-wembanyama--that-didnt-quite-count-034938865.html",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6_Wi.PExX24gMj6eM5sy3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/cc60f9e0-d3ba-11ef-8ff6-238b5c437338",
-    "publishedAt": "2025-01-16T03:49:00Z",
-    "content": "Memphis Grizzlies star Ja Morant came up with a ridiculous poster over Victor Wembanyama after the whistle blew. (Scott Wachter-Imagn Images)\r\nJa Morant thew down what could very well be the best dun… [+1564 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BBC News"
-    },
-    "author": null,
-    "title": "No more miners trapped underground in South Africa, volunteers say - BBC.com",
-    "description": "At least 78 bodies and more than 200 survivors have been pulled out of a mine since Monday.",
-    "url": "https://www.bbc.com/news/articles/czj3d4pwlrjo",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ac2d/live/7d20f670-d363-11ef-9fd6-0be88a764111.jpg",
-    "publishedAt": "2025-01-16T03:44:09Z",
-    "content": "No more illegal miners are believed to be trapped underground at a gold mine in South Africa, volunteers working with rescue teams have said.\r\nAt least 78 bodies and more than 200 survivors have been… [+2788 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Cyclonefanatic.com"
-    },
-    "author": "View articles by Connor Ferguson",
-    "title": "What Kansas coach Bill Self said about Iowa State following Wednesday’s game - Cyclone Fanatic",
-    "description": "AMES, IA - JANUARY 15: Head coach Bill Self of the Kansas Jayhawks coaches from the bench in the first half of play against the Iowa State Cyclones at Hilton Coliseum on January 15, 2025, in Ames, Iowa. (Photo by David Purdy/Getty Images)\n\n\n\nAMES - Following …",
-    "url": "https://cyclonefanatic.com/2025/01/what-kansas-coach-bill-self-said-about-iowa-state/",
-    "urlToImage": "https://cyclonefanatic.com/wp-content/uploads/2025/01/2193525175-scaled.jpg",
-    "publishedAt": "2025-01-16T03:25:12Z",
-    "content": "AMES, IA – JANUARY 15: Head coach Bill Self of the Kansas Jayhawks coaches from the bench in the first half of play against the Iowa State Cyclones at Hilton Coliseum on January 15, 2025, in Ames, Io… [+2974 chars]"
-  },
-  {
-    "source": {
-      "id": "axios",
-      "name": "Axios"
-    },
-    "author": "Rebecca Falconer",
-    "title": "Transportation Department sues Southwest, fines Frontier Airlines over chronic flight delays - Axios",
-    "description": "This \"sends a message to all airlines\" that DOT will go to court in order \"to enforce passenger protections,\" Pete Buttigieg said.",
-    "url": "https://www.axios.com/2025/01/16/southwest-airlines-sued-us-frontier-flight-delays",
-    "urlToImage": "https://images.axios.com/Asgi5jjel5dPdJ4QwryRBu10VCk=/0x82:2653x1575/1366x768/2025/01/16/1736988337230.jpg",
-    "publishedAt": "2025-01-16T02:32:52Z",
-    "content": "Southwest Airlines is being sued and Frontier Airlines fined over chronic flight delays by the Department of Transportation, the DOT announced Wednesday.\r\nWhy it matters: Wednesday's announcement by … [+2776 chars]"
-  },
-  {
-    "source": {
-      "id": "the-washington-post",
-      "name": "The Washington Post"
-    },
-    "author": "Cristiano Lima-Strong",
-    "title": "TikTok races toward a ban as Supreme Court — and Trump — weigh its fate - The Washington Post",
-    "description": "Justices did not issue a ruling in the closely watched case over a potential ban, dialing up intrigue over the app’s fate.",
-    "url": "https://www.washingtonpost.com/technology/2025/01/15/tiktok-ban-sale-biden-trump/",
-    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F4HBUZYP5RWG45N2SAULTOCII4.JPG&w=1440",
-    "publishedAt": "2025-01-16T02:00:07Z",
-    "content": "TikTok inched closer to a nationwide shutdown after the Supreme Court did not rule on the ban-or-sale law targeting the app early Wednesday, leaving the platform in limbo, with President-elect Donald… [+7028 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Guardian"
-    },
-    "author": "Joseph Gedeon",
-    "title": "Joe Biden warns ‘oligarchy is taking shape in America’ in farewell address - The Guardian US",
-    "description": "President sounds alarm about growing power of ultra-wealthy before handing presidency back to Trump",
-    "url": "https://www.theguardian.com/us-news/2025/jan/15/joe-biden-farewell-address-trump-oligarchy-america",
-    "urlToImage": "https://i.guim.co.uk/img/media/e76f429e377cc11182cd629ed59c306c52ba565d/0_53_8230_4940/master/8230.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5182cdb1ba01ca783719c57741f6b3df",
-    "publishedAt": "2025-01-16T01:41:00Z",
-    "content": "Joe Bidens final address to the nation struck an ominous tone after warning of the growing power of Americas ultra-wealthy, and cautioning that an emerging oligarchy threatens the foundations of US d… [+4337 chars]"
+    "author": "Mehab Qureshi",
+    "title": "Insider trading allegations surface as TRUMP memecoin flood Solana DEXs - Cointelegraph",
+    "description": "Trump’s Solana-based memecoin has sparked controversy with allegations of insider trading, while major exchanges list the token and Solana’s ecosystem sees record activity.",
+    "url": "https://cointelegraph.com/news/insider-trading-allegations-surround-trump-memecoin",
+    "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-01/01947dfe-e853-775f-b682-1edf17c0b5dc",
+    "publishedAt": "2025-01-19T09:13:11Z",
+    "content": "Suspicious trading activity has emerged around Donald Trumps Solana-based TRUMP memecoin as its market cap soared to $42 billion, drawing a frenzy of retail investors.\r\nOn Jan. 18, Bubblemaps, an onc… [+3604 chars]"
   },
   {
     "source": {
       "id": "cnn",
       "name": "CNN"
     },
-    "author": "Annie Grayer, Kit Maher, Manu Raju",
-    "title": "Johnson removes Republican chair of House Intelligence Committee - CNN",
-    "description": "House Speaker Mike Johnson has removed Republican Rep. Mike Turner as chair of the House Intelligence Committee for the 119th Congress.",
-    "url": "https://www.cnn.com/2025/01/15/politics/house-intelligence-committee-chair-removed-turner-johnson/index.html",
-    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2160096228.jpg?c=16x9&q=w_800,c_fill",
-    "publishedAt": "2025-01-16T01:35:00Z",
-    "content": "House Speaker Mike Johnson has removed Republican Rep. Mike Turner as chair of the House Intelligence Committee for the 119th Congress.\r\nWhile the speaker has the authority to appoint members of the … [+3223 chars]"
+    "author": "Kevin Liptak, Priscilla Alvarez, Jeff Zeleny, Alayna Treene, Kayla Tausche",
+    "title": "Trump prepares for aggressive push of Day 1 executive actions - CNN",
+    "description": "At noon Monday, a new Donald Trump era begins.",
+    "url": "https://www.cnn.com/2025/01/19/politics/trump-day-one-executive-actions/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2192427002.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-01-19T09:00:00Z",
+    "content": "At noon Monday, a new Donald Trump era begins.\r\nA stack of actions designed to reshape government policy will be awaiting the new presidents signature as soon as he is sworn in a dramatic show of for… [+11076 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Islam Makhachev retains lightweight belt against Renato Moicano at UFC 311 - Al Jazeera English",
+    "description": "In an epic, action-filled bantamweight title match, Merab Dvalishvili defends his title against Umar Nurmagomedov.",
+    "url": "https://www.aljazeera.com/sports/2025/1/19/islam-makhachev-retains-lightweight-belt-against-renato-moicano-at-ufc-311",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/01/AFP__20250119__2194652197__v2__HighRes__Ufc311MakhachevVsMoicano-1737269276.jpg?resize=1920%2C1440",
+    "publishedAt": "2025-01-19T07:24:25Z",
+    "content": "Islam Makhachev has successfully defended his lightweight championship belt following 10th-ranked Renato Moicanos first-round submission at UFC 311.\r\nThe Russian mixed martial arts (MMA) fighter took… [+2956 chars]"
   },
   {
     "source": {
       "id": "associated-press",
       "name": "Associated Press"
     },
-    "author": null,
-    "title": "California’s Newsom will join GOP governors in raising flag for Trump inauguration - The Associated Press",
-    "description": "California Gov. Gavin Newsom will join Republican House Speaker Mike Johnson and some GOP governors in directing U.S. flags be raised to full height on Inauguration Day. Newsom’s spokesperson Izzy Gardon confirmed Wednesday that the governor would temporarily…",
-    "url": "https://apnews.com/article/gavin-newsom-flag-trump-inauguration-02a521a422b128b71b8e8cac4f02e3dd",
-    "urlToImage": "https://dims.apnews.com/dims4/default/55e0991/2147483647/strip/true/crop/4000x2250+0+266/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2F41%2F05da18a41649b856daab5e4ad87f%2F8afd29ead1f54b5ca8e66395e0174d84",
-    "publishedAt": "2025-01-16T01:28:00Z",
-    "content": "SACRAMENTO, Calif. (AP) Democratic California Gov. Gavin Newsom will join Republican House Speaker Mike Johnson and some GOP governors around the country in directing U.S. flags be raised to full hei… [+1084 chars]"
+    "author": "THE ASSOCIATED PRESS",
+    "title": "Taliban deputy tells leader there is no excuse for education bans on Afghan women and girls - The Associated Press",
+    "description": "A senior Taliban figure says the group's leader should scrap education bans on Afghan women and girls. The government has barred females from education after sixth grade, including university. In remarks made Saturday, Sher Abbas Stanikzai, political deputy a…",
+    "url": "https://apnews.com/article/afghanistan-taliban-girls-education-ban-9842e738a55454d21b6eeb05ba819d2f",
+    "urlToImage": "https://dims.apnews.com/dims4/default/244c64d/2147483647/strip/true/crop/5000x2813+0+261/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F86%2Fcb%2Fda6211826b85015087b32302b035%2F02c9fa42dd4a491fb8df13b88ad6670b",
+    "publishedAt": "2025-01-19T07:18:00Z",
+    "content": "A senior Taliban figure has urged the groups leader to scrap education bans on Afghan women and girls, saying there is no excuse for them, in a rare public rebuke of government policy. \r\nSher Abbas S… [+2669 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Julian Mark, Maegan Vazquez, Teo Armus",
+    "title": "Indoor inauguration upends plans for Trump backers. They’re still excited. - The Washington Post",
+    "description": "Many Trump supporters have yet to figure out backup plans for Inauguration Day.",
+    "url": "https://www.washingtonpost.com/politics/2025/01/18/trump-inauguration-supporters/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2XGWH3A7NWYWCOCRUEIYIKKCGM.JPG&w=1440",
+    "publishedAt": "2025-01-19T06:52:08Z",
+    "content": "President-elect Donald Trumps supporters milled around Washington over the weekend, trying to figure out where and how theyd watch Trumps inauguration now that it has been moved indoors because of fr… [+6810 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Boston Globe"
+      "name": "Suntimes.com"
     },
-    "author": null,
-    "title": "Hot dogs, sausage, and . . . dementia? Harvard and MIT research links ultra-processed meat with new health concerns. - The Boston Globe",
-    "description": "The scientists hoped their findings would inform new dietary guidelines expected later this year.",
-    "url": "https://www.bostonglobe.com/2025/01/15/metro/bacon-sausage-hot-dogs-ultra-processed-food-dementia/",
-    "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/D3OJC2FQWTUN74ZSGKRQMAXEJA.JPG?auth=af1dc9d8977a0963098a580d84c57ad35ef1f532f636f7801b983590f6229536&width=1440",
-    "publishedAt": "2025-01-16T01:16:46Z",
-    "content": "In the meat study, published online Wednesday in the journal Neurology,researchers at Harvards T.H. Chan School of Public Health and the Broad Institute of MIT and Harvard said they focused on proces… [+6065 chars]"
+    "author": "Georgia Nicols",
+    "title": "Horoscope for Sunday, January 19, 2025 - Chicago Sun-Times",
+    "description": null,
+    "url": "https://chicago.suntimes.com/horoscopes/2025/01/19/horoscopes-today-sunday-january-19-2025",
+    "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+    "publishedAt": "2025-01-19T06:02:18Z",
+    "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions. The moon is in Libra.\r\nAries (March 21-April 19)\r\nThis is a wonderful day to talk to bosses, parents and people in authority … [+3735 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "LARRY LAGE",
+    "title": "Jayden Daniels and the Commanders stun the top-seeded Lions 45-31 to reach NFC title game - The Associated Press",
+    "description": "Jayden Daniels threw for two touchdowns in a flawless performance by Washington’s dazzling rookie, and the Commanders stunned the Detroit Lions 45-31 to reach the NFC championship game for the first time since winning the Super Bowl 33 years ago. The sixth-se…",
+    "url": "https://apnews.com/article/lions-commanders-score-nfl-playoffs-74382ca3f1bc0c69caba21e39f4787d3",
+    "urlToImage": "https://dims.apnews.com/dims4/default/5bca915/2147483647/strip/true/crop/7743x4355+0+403/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F36%2F60%2F7adca78b13db6b4555c47c6cd7a6%2Fb41e9f6675334d9e8af6cff9cbb6d221",
+    "publishedAt": "2025-01-19T05:54:00Z",
+    "content": "DETROIT (AP) Jayden Daniels and the nothing-to-lose Washington Commanders sent the top-seeded Detroit Lions to a stunningly swift playoff exit.\r\nDaniels threw for two touchdowns and fellow rookie Mik… [+4719 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Investor's Business Daily"
+      "name": "Forbes"
     },
-    "author": null,
-    "title": "Dow Jones Futures Rise After Market Rallies Above Key Levels; Tesla, Meta Lead 12 New Buys - Investor's Business Daily",
-    "description": "The stock market surged on a tame inflation report.",
-    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-tesla-meta-new-buys/",
-    "urlToImage": "https://www.investors.com/wp-content/uploads/2018/11/Stock-BikerMountain-01-adobe.jpg",
-    "publishedAt": "2025-01-16T01:00:00Z",
-    "content": "Dow Jones futures were little changed overnight, along with S&amp;P 500 futures and Nasdaq futures. Nvidia chipmaker Taiwan Semiconductor (TSM), UnitedHealth (UNH), Bank of America (BAC) and Morgan S… [+6169 chars]"
+    "author": "Paul Tassi",
+    "title": "‘Marvel Snap’ Is Now Banned In The US, A Bizarre Link To The TikTok Shutdown - Forbes",
+    "description": "Marvel Snap has now been banned in the US alongside TikTok, thanks to an association with the social media platform's parent company ByteDance, catching players off guard.",
+    "url": "https://www.forbes.com/sites/paultassi/2025/01/19/marvel-snap-is-now-banned-in-the-us-a-bizarre-link-to-the-tiktok-shutdown/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63666d93ca6dcfa46f624b09/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-01-19T05:31:18Z",
+    "content": "Marvel Snap\r\nMarvel Snap\r\nWhile the shutdown of one of the most-used social media apps in America, TikTok, is all anyone can talk about right now, an underreported aspect of the story is that this ap… [+2616 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "BBC News"
+      "name": "Hindustan Times"
     },
-    "author": null,
-    "title": "Drake drops legal action over Kendrick Lamar's Not Like Us - BBC.com",
-    "description": "The rapper withdraws a case accusing his label of artificially boosting the success of Not Like Us.",
-    "url": "https://www.bbc.com/news/articles/cyv433le3vno",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c85b/live/ae72a600-d323-11ef-9fd6-0be88a764111.jpg",
-    "publishedAt": "2025-01-16T00:33:30Z",
-    "content": "Drake is one of the best-selling artists of the last decade\r\nRap superstar Drake is suing Universal Music Group (UMG) for defamation and harassment, over its release of the Kendrick Lamar diss track … [+3884 chars]"
+    "author": "ANI",
+    "title": "Henry Cavill and girlfriend Natalie Viscuso welcome first child; couple spotted in Australia - Hindustan Times",
+    "description": "Henry Cavill and Natalie Viscuso made their relationship public in April 2021. He first shared the news of their growing family back in April 2024. | Hollywood",
+    "url": "https://www.hindustantimes.com/entertainment/hollywood/henry-cavill-and-girlfriend-natalie-viscuso-welcome-first-child-couple-spotted-in-australia-101737260828352.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2025/01/19/1600x900/henry_cavill_1713234004005_1737261725582.jpg",
+    "publishedAt": "2025-01-19T04:43:38Z",
+    "content": "Congratulations are for Hollywood heartthrob Henry Cavill and his lovely partner Natalie Viscuso, as they have officially welcomed their little bundle of joy into the world. The couple has embarked o… [+1483 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Reuters",
+    "title": "Protesters storm South Korean court after it extends President Yoon’s detention - CNN",
+    "description": "Hundreds of supporters of South Korea’s arrested president, Yoon Suk Yeol, stormed a court building early on Sunday after his detention was extended, smashing windows and breaking inside, an attack the country’s acting leader called “unimaginable.”",
+    "url": "https://www.cnn.com/2025/01/18/asia/south-korea-court-extends-yoon-detention-intl-latam/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-12-03t134455z-1735576241-rc210bacbneo-rtrmadp-3-southkorea-politics.JPG?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-01-19T04:10:00Z",
+    "content": "Seoul, South KoreaReuters\r\n  — \r\nHundreds of supporters of South Koreas arrested president, Yoon Suk Yeol, stormed a court building early on Sunday after his detention was extended, smashing windows … [+4383 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Arrowhead Pride"
+    },
+    "author": "John Dixon",
+    "title": "Chiefs depend on big plays from Mahomes and Kelce against tough Texans team - Arrowhead Pride",
+    "description": "The Houston Texans put up a fight in Saturday’s Divisional round matchup — but the Kansas City Chiefs’ Patrick Mahomes and Travis Kelce did what they do.",
+    "url": "https://www.arrowheadpride.com/2025/1/18/24346932/chiefs-texans-patrick-mahomes-travis-kelce-make-plays-against-tough-opponent",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/NusWG0Z0RiK6SfvOx_hiWHlaG04=/43x489:4889x3026/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25837324/2194640736.jpg",
+    "publishedAt": "2025-01-19T04:09:39Z",
+    "content": "After their 27-19 victory over the Houston Texans in Week 16, there were plenty of observers who expected the Kansas City Chiefs would roll right over the Texans in the Divisional round of the playof… [+4412 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBR - Comic Book Resources"
+    },
+    "author": "Jeremy Dick",
+    "title": "Deadpool & Wolverine Filming Report Reveals if Nicepool Really Could've Been Created to Mock Justin Baldoni - CBR",
+    "description": "A new report examines whether the Deadpool &amp; Wolverine shooting schedule lines up with Justin Baldoni's lawsuit claims about the Nicepool character.",
+    "url": "https://www.cbr.com/justin-baldoni-deadpool-wolverine-filming-schedule-nicepool/",
+    "urlToImage": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2025/01/ryan-reynolds-justin-baldoni.jpg",
+    "publishedAt": "2025-01-19T03:40:00Z",
+    "content": "The Nicepool character in Deadpool &amp; Wolverine has become controversial, as it has now been pulled into a big-money lawsuit against Blake Lively and Ryan Reynolds. It Ends With Us director Justin… [+4715 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "247Sports"
+    },
+    "author": "Carter Bahns",
+    "title": "How Ohio State, Notre Dame rallied from stunning losses, sparked national championship runs - 247Sports",
+    "description": "The Buckeyes and Fighting Irish are a win away from completing the ultimate revenge tour",
+    "url": "https://247sports.com/longformarticle/how-ohio-state-notre-dame-rallied-from-stunning-losses-sparked-national-championship-runs-244376139/",
+    "urlToImage": "https://s3media.247sports.com/Uploads/Assets/890/787/12787890.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+    "publishedAt": "2025-01-19T01:24:57Z",
+    "content": "Ohio State and Notre Dame suffered two of the most stunning losses of the entire 2024 season, yet they enter Monday's national championship game as the only two teams still alive in the College Footb… [+5641 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Dalia Faheid",
+    "title": "All poultry activities suspended in Georgia after bird flu confirmed in a commercial operation - CNN",
+    "description": "Georgia has suspended all poultry activities after bird flu was confirmed in a commercial poultry operation, officials said Friday.",
+    "url": "https://www.cnn.com/2025/01/18/us/bird-flu-georgia-suspends-poultry-activities-commercial-flock/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screen-shot-2025-01-18-at-6-59-44-pm.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-01-19T01:02:00Z",
+    "content": "All poultry activities have been suspended in Georgia after bird flu was confirmed in a commercial poultry operation, officials said Friday.\r\nThe positive bird flu case in Elbert County was confirmed… [+3274 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Jonathan Landay, Eric Cox",
+    "title": "Trump rethinking next week's planned immigration raids, report says - Reuters",
+    "description": "President-elect Donald Trump's incoming administration is reconsidering plans for immigration raids in Chicago next week after details were leaked, Trump's “border czar” Tom Homan told the Washington Post in an interview on Saturday.",
+    "url": "https://www.reuters.com/world/us/trump-immigration-forces-target-multiple-cities-border-czar-says-2025-01-18/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/IUQQCXIMPJLUFDOGLWNRUJQOFQ.jpg?auth=856a6a4cb64539b69014b96eabc5693cd4dbc1ae361f2f18d9481afc78a3ced6&height=1005&width=1920&quality=80&smart=true",
+    "publishedAt": "2025-01-19T00:50:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "DW (English)"
+    },
+    "author": "Deutsche Welle",
+    "title": "Spain: Ski lift incident injures dozens, two seriously - DW (English)",
+    "description": "A ski lift malfunction in the Spanish Pyrenees has injured several vacationers, some very seriously. Dozens more skiers were rescued by emergency services crews as they dangled high above the slopes.",
+    "url": "https://www.dw.com/en/spain-ski-lift-incident-injures-dozens-two-seriously/a-71338661",
+    "urlToImage": "https://static.dw.com/image/71338189_6.jpg",
+    "publishedAt": "2025-01-18T23:33:51Z",
+    "content": "A ski lift accident in the Spanish Pyrenees injured at least 30 people on Saturday and left dozens more trapped for hours some 15 meters (50 feet) above slopes in the resort town of Astun in the coun… [+1347 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Anthony Robledo",
+    "title": "Winter weather brings winter storm warnings, polar vortex from Texas to Maine - USA TODAY",
+    "description": "A polar vortex is slated to sweep most of the continental US bringing winter storm warnings and a hazardous freeze to millions.",
+    "url": "https://www.usatoday.com/story/news/weather/2025/01/18/winter-storm-warnings-polar-vortex-snow-ice-us/77807812007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/01/18/USAT/77811764007-getty-images-2190953711.jpg?crop=3969,2233,x0,y413&width=3200&height=1801&format=pjpg&auto=webp",
+    "publishedAt": "2025-01-18T23:09:40Z",
+    "content": "A polar vortex is slated to sweep most of the continental United States bringing a hazardous freeze to millions of Americans from the Deep South to the Northeast Saturday going into next week.\r\nThe a… [+2784 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SpaceNews"
+    },
+    "author": "Jeff Foust",
+    "title": "FAA requires mishap investigation for failed New Glenn landing - SpaceNews",
+    "description": "While Blue Origin considers the first flight of its New Glenn rocket a success, it will have to complete a mishap investigation before its next launch.",
+    "url": "http://spacenews.com/faa-requires-mishap-investigation-for-failed-new-glenn-landing/",
+    "urlToImage": "https://jetpack.com/redirect/?source=sigenerate&query=t%3DeyJpbWciOiJodHRwczpcL1wvc3BhY2VuZXdzLmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyNVwvMDFcL05HMS1MaWZ0b2ZmLUhvcml6b250YWwtMTAyNHg2ODMuanBnIiwidHh0IjoiRkFBIHJlcXVpcmVzIG1pc2hhcCBpbnZlc3RpZ2F0aW9uIGZvciBmYWlsZWQgTmV3IEdsZW5uIGxhbmRpbmciLCJ0ZW1wbGF0ZSI6ImRvaXMiLCJibG9nX2lkIjo4MDY4MTk3OX0.XAGrhsLAtJRX_lW9JaSGN26kSyxTl8Ys4R0PMhOfTogMQ",
+    "publishedAt": "2025-01-18T22:47:21Z",
+    "content": "WASHINGTON While Blue Origin considers the first flight of its New Glenn rocket a success, the company will have to complete a mishap investigation before its next launch.\r\nNew Glenn lifted off on it… [+3824 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Deadline"
     },
-    "author": "Patrick Hipes",
-    "title": "Trump Inauguration Performers: Kid Rock, Billy Ray Cyrus, Underwood, More - Deadline",
-    "description": "Kid Rock, the Village People, Billy Ray Cyrus, Lee Greenwood, Rascal Flatts, Jason Aldean and more will perform during Donald Trump's inauguration.",
-    "url": "http://deadline.com/2025/01/donald-trump-inauguration-performers-1236258118/",
-    "urlToImage": "https://deadline.com/wp-content/uploads/2025/01/Kid-Rock-Billy-Ray-Cyrus-the-Village-People-and-Lee-Greenwood.jpg?w=1024",
-    "publishedAt": "2025-01-16T00:09:00Z",
-    "content": "Carrie Underwood will be joined by performers including Kid Rock, the Village People, Billy Ray Cyrus, Lee Greenwood, Rascal Flatts, Jason Aldean and more over the weekend and Monday as part of Donal… [+2312 chars]"
+    "author": "Natalie Oganesyan",
+    "title": "David Lynch’s Children Pay Tribute To Filmmaker, Invite People To Honor Him In “Worldwide Group Meditation” - Deadline",
+    "description": "Following the death of David Lynch, his four children paid tribute to their father and invited people everywhere to join in a 'group meditation.'",
+    "url": "http://deadline.com/2025/01/david-lynch-children-tribute-worldwide-meditation-1236260660/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2025/01/David-Lynch-1.jpg?w=1024",
+    "publishedAt": "2025-01-18T22:44:00Z",
+    "content": "Following the death of David Lynch, his four children — Jennifer, Austin, Riley and Lula Lynch — paid tribute to their filmmaker father and invited people everywhere to join in a “worldwide group med… [+2610 chars]"
   },
   {
     "source": {
-      "id": "associated-press",
-      "name": "Associated Press"
+      "id": "bloomberg",
+      "name": "Bloomberg"
     },
-    "author": "STEPHANY MATAT",
-    "title": "Conor McGregor is being sued for alleged sexual battery at 2023 NBA final - The Associated Press",
-    "description": "Former UFC champion Conor McGregor is being sued by a woman who accused him of sexual assault but was unable to get authorities to file charges in 2023. The lawsuit also accuses staff and security at the Kaseya Center of gross negligence. The center is the ar…",
-    "url": "https://apnews.com/article/conor-mcgregor-miami-heat-kaseya-center-battery-cf695da769e097021dc66d689e95f6fb",
-    "urlToImage": "https://dims.apnews.com/dims4/default/0e633cf/2147483647/strip/true/crop/2782x1565+0+145/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2Faa%2F4899424d0ce526663315eed390f1%2Fc186f70eb6744385a9acdfb5f9dee5a1",
-    "publishedAt": "2025-01-15T23:09:00Z",
-    "content": "WEST PALM BEACH, Fla. (AP) A woman who accused former UFC champion Conor McGregor of sexual assault but was unsuccessful in getting criminal charges filed is now suing him and employees of the basket… [+2157 chars]"
+    "author": "Victoria Cavaliere",
+    "title": "Santander (SAN) Reconsiders Its UK Presence, Explores Options, FT Says - Bloomberg",
+    "description": "Banco Santander SA is reconsidering its presence in the UK, and may exit the market as it contends with lower returns relative to other markets, the Financial Times reported Saturday.",
+    "url": "https://www.bloomberg.com/news/articles/2025-01-18/santander-reconsiders-its-uk-presence-explores-options-ft-says",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i46Kd1HpcOw4/v1/1200x800.jpg",
+    "publishedAt": "2025-01-18T21:30:22Z",
+    "content": "Banco Santander SA is reconsidering its presence in the UK, and may exit the market as it contends with lower returns relative to other markets, the Financial Times reported Saturday. \r\nThe Spanish l… [+245 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "David L. Stern",
+    "title": "Russian ballistic missiles kill 3 and hit water main in Kyiv, officials say - The Washington Post",
+    "description": "Ukraine said the strikes hit Kyiv and Zaporizhzhia overnight. Russia called the Kyiv strikes a response to Ukrainian attacks on Belgorod.",
+    "url": "https://www.washingtonpost.com/world/2025/01/18/russia-ballistic-missiles-kyiv/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LXJTGHLOTYLQXSNALL6TSG63PE_size-normalized.jpg&w=1440",
+    "publishedAt": "2025-01-18T21:16:13Z",
+    "content": "KYIV Russian forces launched air attacks on Kyiv and other locations in Ukraine early Saturday morning, killing at least three in the capital, officials said the latest deadly assault on Ukraine aime… [+2734 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Variety"
+      "name": "Financial Times"
     },
-    "author": "Zack Sharf",
-    "title": "Timothée Chalamet Got a $73 Fine After Riding a Bike to the ‘A Complete Unknown’ London Premiere to Beat Traffic; He Didn’t Park It Properly - Variety",
-    "description": "Timothee Chalamet rode an electric Lime bike to the London premiere of 'A Complete Unknown' and ended up with a $73 dollar fine.",
-    "url": "https://variety.com/2025/film/news/timothee-chalamet-bike-fine-complete-unknown-london-premiere-1236275306/",
-    "urlToImage": "https://variety.com/wp-content/uploads/2025/01/GettyImages-2193912346.jpg?w=1000&h=563&crop=1",
-    "publishedAt": "2025-01-15T21:52:00Z",
-    "content": "Timothée Chalamet’s global press tour for “A Complete Unknown” went viral when he rode an electric Lime bike into the London premiere of the acclaimed Bob Dylan movie. But it turns out, Chalamet did … [+2058 chars]"
+    "author": "James Shotter",
+    "title": "Ben-Gvir to quit Israeli coalition after it endorses Gaza ceasefire deal - Financial Times",
+    "description": "Far-right security minister’s departure will leave Netanyahu with a two-seat government majority",
+    "url": "https://www.ft.com/content/234ecbe6-cda8-4ce2-bb12-dff9305552a4",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a64b4da-3208-408b-99a8-953eb77292a4.jpg?source=next-barrier-page",
+    "publishedAt": "2025-01-18T20:42:33Z",
+    "content": "FT newspaper delivered Monday-Saturday, plus FT Digital Edition delivered to your device Monday-Saturday.\r\n\u003Cul\u003E\u003Cli\u003E\u003C/li\u003EWeekday Print Edition\u003Cli\u003E\u003C/li\u003EFT Weekend\u003Cli\u003E\u003C/li\u003EFT Digital Edition\u003Cli\u003EGlobal n… [+105 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Ian Livingston, Jason Samenow, Dan Stillman, Martin Weil",
+    "title": "CWG Live updates: Sunday to bring snow and an Arctic blast follows - The Washington Post",
+    "description": "Showers today then snow moves in early Sunday and lasts into evening. The coldest air in years arrives Monday.",
+    "url": "https://www.washingtonpost.com/weather/2025/01/18/dc-weather-live-updates-snow-cold/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7UAYI73LNGFLILROIOGVMKJP4.jpg&w=1440",
+    "publishedAt": "2025-01-18T20:34:58Z",
+    "content": "Amid an unusually wintry January in the D.C. area, another round of snow is on the way Sunday followed by the coldest weather in years.\r\nGenerally, about 1 to 4 inches of snow will probably be most c… [+287 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "2025-01-18T20:31:00Z",
+    "content": "[Removed]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "FRANCE 24 English"
+    },
+    "author": "NEWS WIRES",
+    "title": "Ahead of Trump's inauguration, thousands rally in Washington against his policies - FRANCE 24 English",
+    "description": "Thousands took part in the “People’s March” in protest of the policies of US President-elect Donald Trump in Washington on Saturday. The march included members of civil rights and social justice groups who campaign on issues like abortion access, climate chan…",
+    "url": "https://www.france24.com/en/americas/20250118-on-the-eve-of-trump-s-inauguration-thousands-rally-in-washington-against-his-policies",
+    "urlToImage": "https://s.france24.com/media/display/b65dcd3c-d5cf-11ef-9e63-005056a97e36/w:1280/p:16x9/063_2194578721.jpg",
+    "publishedAt": "2025-01-18T19:31:16Z",
+    "content": "Thousands of demonstrators marched through the streets of Washington on Saturday in protest at the policies of Donald Trump and his Republican Party, two days before the billionaire reclaims the Oval… [+2436 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Jamie Carter",
+    "title": "Stunning ‘Planet Parade’ Visible In Night Sky This Week — How To See It - Forbes",
+    "description": "Venus, Saturn, Jupiter and Mars are all  visible after sunset, but social media claims about it being a rare \"planetary alignment\" are not correct. Here's how to see it.",
+    "url": "https://www.forbes.com/sites/jamiecartereurope/2025/01/18/stunning-planet-parade-visible-in-night-sky-this-week---when-and-where-to-look/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/678bf157956f8c1f48fcf028/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-01-18T19:05:35Z",
+    "content": "A very rare planetary alignment on Tuesday, Jan. 21 and Saturday, Jan. 25 is being promoted online. Its not specific to those dates, but six planets are now in the night sky, four of them visible to … [+3157 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Daily Galaxy --Great Discoveries Channel"
+    },
+    "author": null,
+    "title": "Breast Cancer : Why Younger Women Are at Greater Risk Than Ever Before - The Daily Galaxy --Great Discoveries Channel",
+    "description": "Breast cancer has long been a significant health concern for women, but recent trends show an unsettling increase in diagnoses, particularly among younger",
+    "url": "https://dailygalaxy.com/2025/01/breast-cancer-younger-women-are-at-greater-risk/",
+    "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2025/01/Breast-Cancer-Why-Younger-Women-Are-at-Greater-Risk-Than-Ever-Before.jpg",
+    "publishedAt": "2025-01-18T16:00:00Z",
+    "content": "Breast cancer has long been a significant health concern for women, but recent trends show an unsettling increase in diagnoses, particularly among younger women. A new study led by researchers at Was… [+5004 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Space.com Staff",
+    "title": "This Week In Space podcast: Episode 144 — The great lunar armada - Space.com",
+    "description": "2025 will be a big year for moon missions.",
+    "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-144-the-great-lunar-armada",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/xXGgJrGBajCyj3VSnDvBFn-1200-80.jpg",
+    "publishedAt": "2025-01-18T15:14:17Z",
+    "content": "On Episode 144 of This Week In Space, Rod Pyle and Tariq Malik take a look a pair of private moon missions by Firefly Aerospace and ispace that lifted off this week and so much more.\r\n2025 is the yea… [+1972 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Phys.Org"
+    },
+    "author": "Adithi Ramakrishnan",
+    "title": "Watch doorbell camera capture rare meteorite strike in Canada - Phys.org",
+    "description": "A doorbell camera on a Canadian home captured rare video and sound of a meteorite striking Earth as it crashed into a couple's walkway.",
+    "url": "https://phys.org/news/2025-01-doorbell-camera-captures-rare-meteorite.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/a-meteorite-strike-was.jpg",
+    "publishedAt": "2025-01-18T11:21:12Z",
+    "content": "A doorbell camera on a Canadian home captured rare video and sound of a meteorite striking Earth as it crashed into a couple's walkway.\r\nWhen Laura Kelly and her partner returned home after an evenin… [+1823 chars]"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Jacky Wong",
+    "title": "With Switch 2 and ‘Mario Kart,’ Nintendo Sticks to Its Winning Formula - The Wall Street Journal",
+    "description": "Past product launches hold valuable lessons for the company",
+    "url": "https://www.wsj.com/business/media/with-switch-2-and-mario-kart-nintendo-sticks-to-its-winning-formula-5b144530",
+    "urlToImage": "https://images.wsj.net/im-10448008/social",
+    "publishedAt": "2025-01-18T11:00:00Z",
+    "content": "Nintendo7974-4.26%decrease; red down pointing triangle\r\nknows a thing or two about sequels. With the long-awaited Switch 2, it has decided not to mess with a winning formula. \r\nThe Japanese gaming gi… [+524 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "David Phelan",
+    "title": "Apple To Halt Key iPhone Feature In Next Update, Just Days Away - Forbes",
+    "description": "Since the arrival of Apple Intelligence, there’s been a major bugbear with the iPhone, affecting people’s trust. The next iPhone update will overcome this issue, at least temporarily.",
+    "url": "https://www.forbes.com/sites/davidphelan/2025/01/18/apple-to-halt-key-new-iphone-feature-in-next-update-just-days-away/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/678a3aa5063d9f84e249adec/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-01-18T11:00:00Z",
+    "content": "One of the key features of the new Apple Intelligence suite on the iPhone is notification summaries. At its best, its a genuine time-saver, compacting an entire email chain or into a short digest. Bu… [+2271 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "IFLScience"
+    },
+    "author": "Dr. Alfredo Carpineti",
+    "title": "2.5-Billion-Pixel Andromeda Galaxy Panorama Worth The Decade Of Hubble Observations - IFLScience",
+    "description": "And it revealed that this close-by galaxy is a complete train wreck!",
+    "url": "https://www.iflscience.com/25-billion-pixel-andromeda-galaxy-panorama-worth-the-decade-of-hubble-observations-77677",
+    "urlToImage": "https://assets.iflscience.com/assets/articleNo/77677/aImg/81535/andromeda-meta.jpg",
+    "publishedAt": "2025-01-18T02:28:41Z",
+    "content": "Andromeda is the closest large galaxy to the Milky Way. And it is getting closer, as the two will merge in several billion years. It has been an object of study for centuries, but we have never seen … [+2506 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Deidre McPhillips",
+    "title": "HHS invests nearly $600 million in Moderna’s bird flu vaccine development - CNN",
+    "description": "The US Department of Health and Human Services will award $590 million to Moderna to continue developing a vaccine to protect against bird flu, the pharmaceutical company announced Friday.",
+    "url": "https://www.cnn.com/2025/01/17/health/bird-flu-vaccine-funding-hhs-moderna/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24176203928482.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-01-17T22:27:00Z",
+    "content": "The US Department of Health and Human Services will award $590 million to Moderna to continue developing a vaccine to protect against bird flu, the pharmaceutical company announced Friday.\r\nIn 2023, … [+2335 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Jay Peters",
+    "title": "Nintendo omits original Donkey Kong Country Returns team from the remaster’s credits - The Verge",
+    "description": "Donkey Kong Country Returns HD doesn’t include individual members of the original Retro Studios development team in the credits, as reported by GameSpot.",
+    "url": "https://www.theverge.com/2025/1/17/24346145/nintendo-donkey-kong-country-returns-hd-team-credits",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/iANNeCjdvOuBXz22RmrubLthUU0=/0x0:1920x1080/1200x628/filters:focal(754x616:755x617)/cdn.vox-cdn.com/uploads/chorus_asset/file/25835602/Switch_DonkeyKongCountryReturnsHD_scrn_19.png",
+    "publishedAt": "2025-01-17T20:21:58Z",
+    "content": "Nintendo omits original Donkey Kong Country Returns team from the remasters credits\r\nNintendo omits original Donkey Kong Country Returns team from the remasters credits\r\n / Its not the first time Nin… [+1483 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Jalopnik"
+    },
+    "author": "Owen Bellwood",
+    "title": "Elon Musk Plans To Cut $120 Billion In Federal DEI Initiatives - Jalopnik",
+    "description": "Plus General Motors is banned from sharing driver data, and Polestar has delayed its goal of making money by two years",
+    "url": "https://jalopnik.com/elon-musk-plans-to-cut-120-billion-in-federal-dei-init-1851741798",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/319c757bfcbe8d532cd061804bc0afa8.png",
+    "publishedAt": "2025-01-17T13:45:00Z",
+    "content": "Good morning! Its Friday, January 17, 2025, and this is The Morning Shift, your daily roundup of the top automotive headlines from around the world, in one place. Here are the important stories you n… [+8136 chars]"
+  },
+  {
+    "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+    },
+    "author": "Beth Mole",
+    "title": "More cancer, less death? New alcohol-risk reviews offer conflicting takeaways - Ars Technica",
+    "description": "Two big, somewhat conflicting studies on alcohol risks will influence new guidelines.",
+    "url": "https://arstechnica.com/health/2025/01/more-cancer-less-death-new-alcohol-risk-reviews-offer-conflicting-takeaways/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2148981513-1152x648.jpg",
+    "publishedAt": "2025-01-17T12:30:57Z",
+    "content": null
   }
 ]
